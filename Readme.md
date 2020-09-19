@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Андрей Даниленко](https://up.htmlacademy.ru/javascript/21/user/1205385).
-* Наставник: `Неизвестно`.
+* Наставник: [Лариса Клец] (https://github.com/LoraKlets).
 
 ---
 
